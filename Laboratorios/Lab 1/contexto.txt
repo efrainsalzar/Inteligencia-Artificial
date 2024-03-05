@@ -1,0 +1,29 @@
+Elegir un Dataset:
+
+Puedes buscar datasets en repositorios populares como Kaggle, 
+UCI Machine Learning Repository o cualquier otra fuente confiable.
+Asegúrate de que el dataset tenga al menos 6 propiedades y más de 10,000 ejemplos.
+
+Entrenar Modelos:
+
+Implementa un modelo de regresión lineal multivariable.
+Aplica un modelo de regresión polinómica.
+Calcula los parámetros theta utilizando la ecuación normal.
+
+Visualizar el Costo:
+
+Plotea gráficos de costo para cada modelo durante el entrenamiento. 
+Esto te permitirá evaluar cómo está aprendiendo el modelo y si es necesario ajustar 
+la tasa de aprendizaje u otros hiperparámetros.
+
+Realizar Predicciones:
+
+Después de entrenar los modelos, realiza al menos 10 predicciones con cada uno.
+Compara las predicciones con los valores reales para evaluar la efectividad de cada modelo.
+
+Documentar y Compartir:
+
+Documenta todo el proceso en un cuadernillo Jupyter.
+Sube el cuadernillo y el dataset a un repositorio en GitHub.
+Comparte la dirección del repositorio y el cuadernillo en eCampus, junto con una explicación suficiente 
+del trabajo realizado.
