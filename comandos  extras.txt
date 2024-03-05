@@ -1,0 +1,3 @@
+#Para tu primer push de git tal vez de salte walking
+# Configurar Git para convertir LF a CRLF en Windows
+git config --global core.autocrlf true
